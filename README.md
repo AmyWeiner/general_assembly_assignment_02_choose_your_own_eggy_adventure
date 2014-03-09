@@ -1,0 +1,1 @@
+This program implements a choose-your-own-adventure style game, based on an input file that is read at the start of the game. The program first prompts the player to make a choice from one of the options in the input file, and then outputs to the screen the end result of that choice. After the final destination is reached, the player is promted to restart the game.
